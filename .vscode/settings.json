@@ -1,0 +1,8 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.portWin": "COM13",
+  "files.associations": {
+    "adafruit_il0373.h": "c",
+    "*.ipp": "cpp"
+  }
+}
